@@ -1,0 +1,14 @@
+{
+  "name": "eu-no-mundo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "eu-no-mundo"
+  ],
+  "author": "Maria Eduarda",
+  "license": "ISC"
+}
